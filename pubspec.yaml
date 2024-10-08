@@ -1,0 +1,52 @@
+name: dileepabandara_dev
+description: Hello there, I'm Aman Gupta. This is my personal website,
+  which contains public information that anyone can find on the internet.
+
+publish_to: 'none'
+
+version: 1.1.2+0
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_native_splash: ^2.2.17
+  icons_plus: ^5.0.0
+  url_launcher: ^6.2.2
+  url_launcher_tizen: ^2.1.2
+  firebase_core: ^2.15.1
+  cloud_firestore: ^4.8.1
+
+flutter_native_splash:
+  image: assets/images/logo.jpeg
+  color: "#121212"
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/
+    - assets/icons/
+    - assets/images/
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+          style: normal
+          weight: 400
+        - asset: assets/fonts/Poppins-Medium.ttf
+          style: normal
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          style: normal
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          style: normal
+          weight: 700

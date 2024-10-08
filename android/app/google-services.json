@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534597684157",
+    "project_id": "myportfolio-amangupta",
+    "storage_bucket": "myportfolio-amangupta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534597684157:android:41f99fb2adbc8f3b1aa0d4",
+        "android_client_info": {
+          "package_name": "dev.dileepabandara.dileepabandara_dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeBL9_H8XJp8UxNjH3yF4RHRpEaqNpdW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
