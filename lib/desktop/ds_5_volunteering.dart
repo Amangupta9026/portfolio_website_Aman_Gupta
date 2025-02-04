@@ -37,7 +37,7 @@ class DS5Volunteering extends StatelessWidget {
                     onTap: () {
                       Utils.urlLauncher(url: DataValues.supportAppUrl);
                     },
-                    image: 'support.png',
+                    image: 'employee.jpeg',
                     title: "Employee Tracker System",
                     description:
                         'Designed to manage & streamline various HR roles from tracking employee info to managing performance. Some key features: "Database Management, Attendance & Time Tracking, Leave Management, Performance Management, Payroll Management, Self-Service Portal & more".\n',
@@ -62,7 +62,7 @@ class DS5Volunteering extends StatelessWidget {
                     onTap: () {
                       Utils.urlLauncher(url: DataValues.qwiseLearingAppUrl);
                     },
-                    image: 'doctor.png',
+                    image: 'prime.png',
                     title: 'Prime Coin',
                     description:
                         "Allow users to trade leading cryptocurrency exchanges, offering a variety of features aimed at providing a seamless trading experience. Some key features: Extensive & New Listings, Design, Two-Factor Authentication (2FA), Fixed Deposit Interest, Multiple Payment Options, Order Types, Real-Time Notifications & more.",
@@ -82,7 +82,7 @@ class DS5Volunteering extends StatelessWidget {
                 Expanded(
                   child: ContainerCard().type5(
                       context: context,
-                      image: "gita.png",
+                      image: "ratan.png",
                       title: 'Ratan Kalyan Market',
                       description:
                           'Ratan Kalyan Market is a online Matka game app. This app shows online markets game like milan morning, Gujrat, Kalyan Pro, Ratan Khatari etc. This app is also provide you fastest matka market result. This app is developed using Flutter and Firebase.\n\n',
@@ -140,7 +140,7 @@ class DS5Volunteering extends StatelessWidget {
                     onTap: () {
                       Utils.urlLauncher(url: DataValues.qwiseLearingAppUrl);
                     },
-                    image: 'doctor.png',
+                    image: 'fantasy.jpeg',
                     title: 'Fantasy Sport Application',
                     description:
                         'Providing virtual platform for sports enthusiasts to create & manage their own fantasy teams, participate in leagues, & compete against others based on real-world sports. Features: "User-Friendly Interface, Multiple Sports, Team Management, Leagues & Competitions, Scoring System, Rewards & more.',
@@ -197,7 +197,7 @@ class DS5Volunteering extends StatelessWidget {
                     onTap: () {
                       Utils.urlLauncher(url: DataValues.supportAppUrl);
                     },
-                    image: 'support.png',
+                    image: 'milan.png',
                     title: "Milan Satta",
                     description:
                         'This app which caters to the popular lottery game originating from India, would need to provide various features to ensure a comprehensive, user-friendly, & secure experience for its users. Some key features: "Betting Features, Game Features, Account Management, Security Features, Transaction Tracking, Payment Gateway & much more".',
@@ -242,7 +242,7 @@ class DS5Volunteering extends StatelessWidget {
                 Expanded(
                   child: ContainerCard().type5(
                       context: context,
-                      image: "gita.png",
+                      image: "kundali.png",
                       title: 'Kundali App',
                       description:
                           'A Kundali (astrological birth chart) app can offer a wide range of features to provide a comprehensive & user-friendly experience for users interested in astrology. Here are some key features: "Kundali Generation, Astrological Calculations, Daily/Weekly/Monthly Predictions, Consultation Features, Payment Integration and more".',
@@ -274,7 +274,7 @@ class DS5Volunteering extends StatelessWidget {
                     onTap: () {
                       Utils.urlLauncher(url: DataValues.supportAppUrl);
                     },
-                    image: 'support.png',
+                    image: 'inner.jpeg',
                     title: "My Inner Circle (Baby Care Tracker)",
                     description:
                         'This app can provide comprehensive tracking & support for parents & caregivers. Here are some key features it could include: "Baby Daily Activity Tracking, Baby Health Monitoring, Notifications & Reminders, Photo Filters, User Interface & Experience, Security & Privacy, Community & Support, Feed Post, & more".',
@@ -299,7 +299,7 @@ class DS5Volunteering extends StatelessWidget {
                     onTap: () {
                       Utils.urlLauncher(url: DataValues.qwiseLearingAppUrl);
                     },
-                    image: 'doctor.png',
+                    image: 'election.png',
                     title: 'Election Bet App',
                     description:
                         'Creating an election bet app involves integrating a variety of features to ensure a seamless and engaging user experience. Some key features: "User Registration & Profiles, Betting Mechanisms, Information & Analytics, Security & Compliance, Financial Management, Legal & Ethical Considerations & more".',
@@ -319,10 +319,10 @@ class DS5Volunteering extends StatelessWidget {
                 Expanded(
                   child: ContainerCard().type5(
                       context: context,
-                      image: "gita.png",
+                      image: "tokchat.png",
                       title: 'Tok Chat',
                       description:
-                          'Bhagavad Gita Audio Video Book is a collection of audio and video books of Bhagavad Gita. This app is developed using Flutter and Firebase. This app is available in Android platforms.\n',
+                          'Tok Chat brings you the best of online entertainment. Enjoy seamless messaging, engaging content, Live streams, Connect with friends, join vibrant communities and more. Create your profile, find your tribe, and let the good times roll.\n',
                       onTap: () {
                         Utils.urlLauncher(url: DataValues.geetaAppUrl);
                       },
